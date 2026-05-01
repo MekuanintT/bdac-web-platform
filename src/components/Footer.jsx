@@ -42,7 +42,7 @@ export default function Footer() {
           <div className="footer-contact">
             <h4>{t('footer.contact_us')}</h4>
             <p><span>📍</span> {t('footer.location', 'Bahir Dar, Ethiopia')}</p>
-            <p><span>✉️</span> info@americancornerbd.org</p>
+            <p><span>✉️</span>  mekuanint info@americancornerbd.org</p>
             <p><span>📞</span> +251 58 220 1665</p>
           </div>
 
